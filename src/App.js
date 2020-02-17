@@ -11,7 +11,7 @@ export default function App() {
             alt="Cafe Ferrol"
             width="128"
           />
-          <h4 id="header-title" className="header-title jello">
+          <h4 id="header-title" className="header-title ">
             Cafe Ferrol
           </h4>
         </header>
